@@ -28,9 +28,7 @@ object HelloDemo {
 
     println(f3(2)(3))
 
-    def f4(f:()=> Int) :Unit = {
-      
-    }
+
 
 
 
